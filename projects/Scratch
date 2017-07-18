@@ -10,7 +10,7 @@
     		<ul>
         		<li><a href="/index.html">Home</a></li>
 	        	<li><a href="/projects.html">Projects</a></li>
-			<li><a href="/projects/Scratch</a></li>
+			<li><a href="/projects/Scratch">Scratch</a></li>
     		</ul>
 		</nav>
 		<div class="container">
